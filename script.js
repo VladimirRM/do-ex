@@ -4,5 +4,5 @@ const result = document.querySelector("#result");
 const total = document.querySelector("#total");
 
 
-
+// get input value
 
